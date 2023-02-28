@@ -8,3 +8,4 @@ Ingredients:
 
 Instructions:
  - Mix all dry ingredients
+ - Mix wet ingredients
