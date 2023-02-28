@@ -5,3 +5,6 @@ Ingredients:
  - 2 eggs
  - 1 tsp. baking powder
  - 1 tsp. vanilla
+
+Instructions:
+ - Mix all dry ingredients
